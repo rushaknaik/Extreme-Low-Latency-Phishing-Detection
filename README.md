@@ -93,6 +93,5 @@ If you use this project in your research, please cite:
 @misc{urlensemble2025,
   author = {Your Name},
   title = {URL Classification Ensemble for Phishing Detection},
-  year = {2025},
-  howpublished = {\url{https://github.com/yourusername/url-ensemble}}
+  year = {2025}
 }
