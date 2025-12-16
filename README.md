@@ -91,7 +91,7 @@ Results and logs will be saved in the results/ directory.
 If you use this project in your research, please cite:
 
 @misc{urlensemble2025,
-  author = {Your Name},
+  author = {Rushank R Naik},
   title = {URL Classification Ensemble for Phishing Detection},
   year = {2025}
 }
